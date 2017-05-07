@@ -8,8 +8,8 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: agh.soa.lab7:repository-test:ejb-client:client:10.0.0-SNAPSHOT" />
-          <element id="library" level="project" name="Maven: com.sample.ejb:ejb-remote-server:ejb-client:client:10.0.0-SNAPSHOT" />
           <element id="library" level="project" name="Maven: javax.jms:jms-api:1.1-rev-1" />
+          <element id="library" level="project" name="Maven: org.jboss.spec.javax.jms:jboss-jms-api_2.0_spec:1.0.0.Final" />
         </element>
       </element>
       <element id="directory" name="META-INF">
